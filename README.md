@@ -1,4 +1,4 @@
-# brokent - Network Security and Attack Testing Python Script
+# brokeint - Network Security and Attack Testing Python Script
 
 ##
 
