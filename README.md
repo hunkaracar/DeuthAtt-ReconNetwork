@@ -7,8 +7,8 @@ DOS attack capabilities.
 
 #### Supported Attack
 
-`[-] ICMP DOS attack`
-`[-] Deauth DOS Attack`
+`[-] ICMP DOS attack`<br>
+`[-] Deauth DOS Attack`<br>
 `[-] Land attack (designed for Microsoft Windows)`
 
 ##
