@@ -1,5 +1,10 @@
 # brokent - Network Security and Attack Testing Python Script
 
+##
+
+Brokeint software is a script written in Python language with network discovery, scanning, information, SSID scanning and DOS attack capabilities.
+##
+
 ## Use
 
 ### Help Documentation
