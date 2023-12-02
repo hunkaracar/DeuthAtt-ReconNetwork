@@ -2,7 +2,15 @@
 
 ##
 
-Brokeint software is a script written in Python language with network discovery, scanning, information, SSID scanning and DOS attack capabilities.
+Brokeint software is a script written in Python language with network discovery, scanning, information, SSID scanning and 
+DOS attack capabilities.
+
+#### Supported Attack
+
+[-] ICMP DOS attack
+[-] Deauth DOS Attack
+[-] Land attack (designed for Microsoft Windows)
+
 ##
 
 ## Use
