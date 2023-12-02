@@ -4,8 +4,7 @@
 
 ### Help Documentation
 
-``bash
-python3 brokeint.py -h
+`python3 brokeint.py -h`
 
 ###  Scans devices with cidr display and gives information about devices 
 
