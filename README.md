@@ -21,7 +21,7 @@ DOS attack capabilities.
 
 ###  Scans devices with cidr display and gives information about devices 
 
-`python3 brokeint.py -ip 192.168.1.1/24 -iface eth0,Wi-Fi`
+`python3 brokeint.py -ip 192.168.1.1/24 `
 
 ### The --nmap parameter scans using nmap and collects information about devices
 
